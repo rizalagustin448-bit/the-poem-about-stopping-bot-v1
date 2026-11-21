@@ -10,8 +10,8 @@ All day I have been a door
 other people walk through.
 Tonight I learn the hinge:
 stopping is not vanishing.
-It is keeping my hand on the handle
-and staying in the room."""
+I turn the key from the inside —
+the room is mine, and I stay."""
 
 
 def main():
